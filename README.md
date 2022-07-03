@@ -1,4 +1,4 @@
-# Click Counter
+# Clicks Counter
 
 Counts how many times colored squares were clicked by a user.
 
@@ -15,6 +15,6 @@ Counts how many times colored squares were clicked by a user.
 
 ## Preview
 
-Live demo: [click here](https://pawelpohland.github.io/click-counter/)
+Live demo: [click here](https://pawelpohland.github.io/clicks-counter/)
 
-[![App screenshot](preview.png "Preview - screenshot")](https://pawelpohland.github.io/click-counter/)
+[![App screenshot](preview.png "Preview - screenshot")](https://pawelpohland.github.io/clicks-counter/)
